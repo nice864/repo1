@@ -7,8 +7,8 @@
         "zh-tw": "為 ESP32 提供 Bluepad32 藍牙手柄支援 (支援 PS4/PS5/Switch/Xbox 等)",
         "en": "Bluetooth Gamepad support for ESP32 via Bluepad32"
     },
-    "author": "KT",
-    "email": "tangclkevin@gamil.com",
+    "author": "sad",
+    "email": "abc@gamil.com",
     "license": "MIT",
     "isBoard": false,
     "id": "bluepad32arduino",
