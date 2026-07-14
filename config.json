@@ -1,0 +1,25 @@
+{
+    "name": {
+        "zh-tw": "esp32 藍牙手柄",
+        "en": "esp32 controller"
+    },
+    "description": {
+        "zh-tw": "為 ESP32 提供 Bluepad32 藍牙手柄支援 (支援 PS4/PS5/Switch/Xbox 等)",
+        "en": "Bluetooth Gamepad support for ESP32 via Bluepad32"
+    },
+    "author": "KT",
+    "email": "tangclkevin@gamil.com",
+    "license": "MIT",
+    "isBoard": false,
+    "id": "bluepad32arduino",
+    "platform": ["win", "mac", "web"],
+    "version": "0.0.1",
+    "asset": {
+        "arduinoC": {
+            "dir": "arduinoC/",
+            "version": "0.0.1",
+            "board": ["esp32","firebeetleesp32e","firebeetleesp32"],
+            "main": "main.ts"
+        }
+    }
+}
